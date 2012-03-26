@@ -1,0 +1,6 @@
+L = Life
+r = Distancia de deteção
+R = Distancia de perda
+d = Distancia de ataque
+P = Posição inicial
+c = Cooldown de ataque
