@@ -1,6 +1,17 @@
+Letras:
 L = Life
 r = Distancia de deteção
 R = Distancia de perda
 d = Distancia de ataque
 P = Posição inicial
 c = Cooldown de ataque
+
+Nomes de estados:
+Espera 			-> Parado
+Patrulha 		-> Movimento aleatório
+Persegue 		-> Vai atrás de Medrash
+Ataca			-> Ataque
+Volta			-> Realiza um deslocamento 
+Defende			-> Modo de defesa
+Alerta			-> Esperando para atacar
+Morte			-> Estado final
